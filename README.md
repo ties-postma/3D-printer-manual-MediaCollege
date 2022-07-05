@@ -16,7 +16,7 @@ ________________________________________________________________________________
   
   Als je je .stl file hebt zou je hem moeten kunnen openen in Cura, als je dat hebt gedaan kan je je model van grootte en van plek veranderen.
   
-  Als je blij bent met de grootte en plek van je model kan je op slice drukken om dan te zien hoe lang de print duurt en hoeveel fillament je nodig hebt.
+  Als je blij bent met de grootte en plek van je model kan je op "slice" drukken om dan te zien hoe lang de print duurt en hoeveel fillament je nodig hebt.
   
   Als je model gesliced is dan moet je hem opslaan naar de SD kaart en dan de sd kaart eruit halen.
   
@@ -31,15 +31,15 @@ ________________________________________________________________________________
   
   Als je de printer aanhebt moet je de SD kaart in de SD kaart opening doen.
   
-  Als je je SD kaart erin hebt gedaan druk je op print, dan zoek je de naam van het model en druk je daarop en dan begint de printer op te warmen en te printen.
+  Als je je SD kaart erin hebt gedaan druk je op "print", dan zoek je de naam van het model en druk je daarop en dan begint de printer op te warmen en te printen.
   
-  (Optioneel : als je je print netter wilt maken kan je naar print settings gaan en daar de print speed naar 75% of 50% zetten.)
+  (Optioneel : als je je print netter wilt maken kan je naar "print settings" gaan en daar de "print speed" naar 75% of 50% zetten.)
   
   ____________________________________________________________
   
  # Het fillament veranderen
   
-  Als je je fillament wilt veranderen dan zet je de printer aan, druk je op Material, dan op Change en dan gaat de printer
+  Als je je fillament wilt veranderen dan zet je de printer aan, druk je op "Material", dan op "Change" en dan gaat de printer
   voorverwarmen om het fillament eruit te halen.
   
   Als dat klaar is zorgt de machine ervoor dat het fillament er achter uit wordt gehaald.
@@ -48,15 +48,15 @@ ________________________________________________________________________________
   dit kan stroef gaan maar gebruik niet te veel kracht.
   
   Als je alles eraf hebt kan je een andere rol fillament pakken en die erop schuiven,
-  druk kan op ok en dan zou er een klein wieltje moeten starten met draaien in een zwart plastic doosje achterop de printer waar het fillament erin gaat.
+  druk kan op "OK" en dan zou er een klein wieltje moeten starten met draaien in een zwart plastic doosje achterop de printer waar het fillament erin gaat.
   
   Als je het kleine wieltje ziet draaien dan stop je je fillament in het ronde gaatje onderop,
   druk dan door tot je fillament bij het wieltje is en het wieltje je fillament meetrekt. Dit heeft soms wel een beetje kracht nodig.
   
-  Als je fillament langs het wieltje wordt getrokken druk je op OK en dan wordt als het goed is je fillament snel naar het uiteinde genomen.
+  Als je fillament langs het wieltje wordt getrokken druk je op "OK" en dan wordt als het goed is je fillament snel naar het uiteinde genomen.
   
-  Wacht totdat je nieuwe fillament uit het uiteinde komt en druk kan op ok,
-  meestal wordt daarna gevraagd welk materiaal je gebruikt en meestal besteld school PLA dus dan selecteer je die.
+  Wacht totdat je nieuwe fillament uit het uiteinde komt en druk kan op "OK",
+  meestal wordt daarna gevraagd welk materiaal je gebruikt en meestal bestelt school PLA dus dan selecteer je die.
   
   ______________________________________________________________________________________________________________________________________
   
@@ -80,11 +80,11 @@ ________________________________________________________________________________
    
    dan beweeg je de printerkop rustig met je hand over alle axissen heen.
    
-   als je daarmee klaar bent zet je dr printer aan voor de buildplate.
+   als je daarmee klaar bent zet je de printer aan voor de buildplate.
    
    als je begint met de buildplate begin je met de schroef in het midden, daar doe je wat smeermiddel op.
    
-   daarna druk je op maintenence en daarna op advanced.
+   daarna druk je op "maintenence" en daarna op "advanced".
    
    als je dat hebt gedaan zoek je naar de optie "raise buildplate", als je die indrukt dan gaat de buildplate helemaal omhoog.
    
